@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently pursuing a master degree at the Computer Application Research Center, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. My supervisor is Prof. Zoe L. Jiang.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 23S051021@stu.hit.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Electronic Information, Harbin Institute of Technology (Shenzhen), 2023—now.
+B.E., Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Cryptography, Zero-Knowledge Proof.
 
