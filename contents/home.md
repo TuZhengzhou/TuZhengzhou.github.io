@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![TuZhengzhou](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/TuZhengzhou)
 
 I am currently pursuing a master degree at the Computer Application Research Center, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. My supervisor is Prof. Zoe L. Jiang.
 
